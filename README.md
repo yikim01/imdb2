@@ -32,11 +32,15 @@ To start:
 
 An example way to work would be for team members to split the work into different features, like:
 
-```visit_home_page```
+```
+visit_home_page
+```
 
 or 
 
-```seed_db```
+```
+seed_db
+```
 
 Each student should work in their own branch and submit their work to the leader, who will merge it.
 
