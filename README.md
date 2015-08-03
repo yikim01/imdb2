@@ -17,7 +17,7 @@ rails s
 
 ... and visit the home page. You will need to work your way through the controllers and models to make sure you get rid of the errors.
 
-**The team that wins will be able to click through every page of the application until all error messages are resolved. Your application will look like this:**
+**The team that wins will be able to click through every page of the application until all error messages are resolved. Your application will look like this (except now there are more links... :):**
 
 <p align="center">
 <img src="http://i.imgur.com/Fqun13q.png"
